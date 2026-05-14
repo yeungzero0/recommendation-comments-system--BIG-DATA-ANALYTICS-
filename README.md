@@ -4,7 +4,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange)](https://scikit-learn.org/)
 [![Sentence-Transformers](https://img.shields.io/badge/BERT-embeddings-green)](https://www.sbert.net/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 一個基於 **Amazon 商品評論** 的「有用性預測系統」（Helpfulness Prediction），使用機器學習與深度學習模型判斷評論是否值得被信任，並透過後處理機制（demotion）把誤導性評論往下排，讓真正有價值的評論優先顯示，提升使用者購物體驗。
 
