@@ -13,9 +13,9 @@
 
 **本專案純粹用於學習與個人/課程用途**。
 
-- 此專案是 **POLYU CS Big Data Analytics 課程** 的作業/學習專案，主要目的是練習 NLP、特徵工程、模型整合（Ensemble）、資料視覺化及後處理邏輯。
+- 此專案是 **POLYU CS 學生** 的學習專案，主要目的是練習 NLP、特徵工程、模型整合（Ensemble）、資料視覺化及後處理邏輯。
 - **嚴禁商業使用**：本專案**不得**用於任何商業活動、產品開發、盈利目的或生產環境。
-- **僅供參考與教育**：所有產出的結果（包含 result.csv）僅供個人學習、測試與玩樂之用。
+- **僅供參考與教育**：所有產出的結果（包含 result.csv）僅供學習、測試之用。
 - **無任何保證**：作者不對使用本專案所產生的任何輸出、結果、版權問題或後果承擔任何責任。
 - 如有任何疑問，請勿用於正式用途。
 
@@ -38,6 +38,3 @@
 - **最終最佳成績**：Ensemble (LR-Tuned + RF-BERT + GBT-BERT) → **(F1 + AUC)/2 = 0.9079**
 
 ---
-git clone https://github.com/你的帳號/Amazon-Reviews-Helpfulness-Prediction.git
-cd Amazon-Reviews-Helpfulness-Prediction
-pip install -r requirements.txt
