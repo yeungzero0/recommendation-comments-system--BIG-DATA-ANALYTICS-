@@ -37,4 +37,7 @@
 - 最終輸出 `result.csv` 包含 trust_score、is_misleading、matched_misclassified_words 等欄位
 - **最終最佳成績**：Ensemble (LR-Tuned + RF-BERT + GBT-BERT) → **(F1 + AUC)/2 = 0.9079**
 
+
+![image](https://github.com/yeungzero0/recommendation-comments-system--BIG-DATA-ANALYTICS-/blob/main/recommendation-comments-system_Timg2.png)
+
 ---
