@@ -38,13 +38,14 @@
 - **最終最佳成績**：Ensemble (LR-Tuned + RF-BERT + GBT-BERT) → **(F1 + AUC)/2 = 0.9079**
 
 
-## Result && demo
+## Result
 ![image](https://github.com/yeungzero0/recommendation-comments-system--BIG-DATA-ANALYTICS-/blob/main/img/1.png)  
 ![image](https://github.com/yeungzero0/recommendation-comments-system--BIG-DATA-ANALYTICS-/blob/main/img/2.png)  
 ![image](https://github.com/yeungzero0/recommendation-comments-system--BIG-DATA-ANALYTICS-/blob/main/img/3.png)  
 ![image](https://github.com/yeungzero0/recommendation-comments-system--BIG-DATA-ANALYTICS-/blob/main/img/4.png)  
 ![image](https://github.com/yeungzero0/recommendation-comments-system--BIG-DATA-ANALYTICS-/blob/main/img/5.png)  
-  
+
+# Top 10 comments demo
 ![image](https://github.com/yeungzero0/recommendation-comments-system--BIG-DATA-ANALYTICS-/blob/main/img/0.png)
 
 ---
